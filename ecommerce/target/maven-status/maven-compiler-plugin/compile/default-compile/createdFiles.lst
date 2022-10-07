@@ -1,0 +1,7 @@
+br\com\alura\ecommerce\FraudDetectorService.class
+br\com\alura\ecommerce\EmailService.class
+br\com\alura\ecommerce\Extrato$ExtratoBuilder.class
+br\com\alura\ecommerce\Extrato.class
+br\com\alura\ecommerce\Model.class
+br\com\alura\ecommerce\NewOrderMain.class
+br\com\alura\ecommerce\Model$ModelBuilder.class
